@@ -14,7 +14,7 @@ breast-cancer-severity-prediction/
 ├── notebook/
 │   └── breast\_cancer\_severity\_prediction.ipynb  # Jupyter notebook with code and analysis
 ├── requirements.txt                      # Python dependencies
-├── README.md                             # Project overview (you're here!)
+├── README.md                             # Project overview
 └── .gitignore                            # Files ignored by Git
 
 ````
